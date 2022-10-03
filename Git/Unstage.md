@@ -1,2 +1,0 @@
-# Remove file from staging area
-

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Unstage.md",
-            "mode": "source",
+            "file": "Git/Tutorial ProGit.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,9 +40,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#git",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Unstage.md",
+                "file": "Git/Tutorial ProGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Unstage.md",
+                "file": "Git/Tutorial ProGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Unstage.md"
+                "file": "Git/Tutorial ProGit.md"
               }
             }
           },
@@ -127,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Unstage.md",
+                "file": "Git/Tutorial ProGit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,16 +164,17 @@
     "direction": "horizontal",
     "width": 418.5
   },
-  "active": "63ec5d98e2947be7",
+  "active": "7567bb72c1b21ed5",
   "lastOpenFiles": [
+    "Git/Unstage and delete file.md",
+    "Python/Design Patterns.md",
+    "MatLAB/handle класс.md",
+    "MatLAB/value класс.md",
     "MatLAB/Classes.md",
+    "Python/Asyncio.md",
     "Python/Django Framework.md",
     "WEB/Client Server.md",
-    "Python/Asyncio.md",
-    "Python/Testing.md",
     "Python/OOP.md",
-    "Python/Numpy.md",
-    "Модель/Модель MatLAB.md",
-    "asd.md"
+    "readme.md"
   ]
 }
